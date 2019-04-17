@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://riezoocuog.pastyrskastena.eu/sitemap.xml
